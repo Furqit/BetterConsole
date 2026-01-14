@@ -1,0 +1,22 @@
+# Gradle
+.gradle/
+build/
+.kotlin/
+libs/
+gradle/wrapper/gradle-wrapper.jar
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Bytecode
+*.class
+
+# Logs
+hs_err_*.log
+replay_*.log
+*.hprof
+*.jfr
+*.log

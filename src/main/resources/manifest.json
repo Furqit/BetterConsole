@@ -1,0 +1,24 @@
+{
+  "Group": "dev.furq",
+  "Name": "BetterConsole",
+  "Version": "${version}",
+  "Description": "Improves console log readability and suppresses spam.",
+  "Authors": [
+    {
+      "Name": "Furq"
+    }
+  ],
+  "Website": "",
+  "ServerVersion": "*",
+  "Dependencies": {
+    "Hytale:EntityModule": "*"
+  },
+  "OptionalDependencies": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": false,
+  "Hyxin": {
+    "Configs": [
+      "betterconsole.mixins.json"
+    ]
+  }
+}
