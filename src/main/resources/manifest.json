@@ -8,7 +8,7 @@
       "Name": "Furq"
     }
   ],
-  "Website": "",
+  "Website": "https://github.com/Furqit/BetterConsole",
   "ServerVersion": "*",
   "Dependencies": {
     "Hytale:EntityModule": "*"
@@ -17,8 +17,6 @@
   "DisabledByDefault": false,
   "IncludesAssetPack": false,
   "Hyxin": {
-    "Configs": [
-      "betterconsole.mixins.json"
-    ]
+    "Configs": ["betterconsole.mixins.json"]
   }
 }
